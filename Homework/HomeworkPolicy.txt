@@ -1,0 +1,13 @@
+You are expected to accomplish all required activities for each unit of instruction on or before the assignment due date. 
+All assignments are required, except in special situations noted by the instructor. 
+Assignments will be assigned and discussed in class, and/or via the course management system, and will be submitted online as outlined in class or in the assignment directions. 
+
+Email submissions are NOT accepted and will NOT be graded, unless specifically requested by the instructor. 
+Unless otherwise noted, all file submissions MUST follow the naming convention outlined in the assignment description or stub code. 
+If not specified, the default naming conventions should be yourusername_AssignmentName.fileextension where you replace yourusername, AssignmentName, and fileextension with the appropriate values.
+Inappropriately labelled assignments will NOT be graded. Late work is NOT accepted and will be given a grade of 0.
+
+Homework assignments must be completed on your own time and on your own, except in the case of specifically assigned group work.
+Each student must complete homework assignments individually. Group work is not acceptable, unless specifically identified as such. 
+Shared credit or zero credit is given for shared work. When you submit an assignment for grading, you pledge that your work is your own and original, 
+and that you have neither given nor received any unauthorized assistance on the assignment.

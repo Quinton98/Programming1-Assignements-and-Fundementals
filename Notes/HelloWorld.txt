@@ -1,0 +1,3 @@
+Hello World
+
+This is the folder where we will upload lecture notes.
