@@ -1,0 +1,18 @@
+Labs 1 2/6/2023
+
+print('What is your first name\n');
+
+$input = <>;
+
+chomp($input);
+
+print('Your name is $input\n');
+
+
+print('What is your last name\n);
+
+$input = <>;
+
+print('Your last name is $input\n');
+
+
