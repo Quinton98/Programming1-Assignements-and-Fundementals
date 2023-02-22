@@ -1,0 +1,14 @@
+#!/usr/bin/perl
+
+#Be sure to review the compter Terminology file in Notes
+#Be sure you know how to create a directory and how to commit to git
+
+#Topics covered 
+### How to create and run perl scripts
+### Print statements
+###How to take user input
+###Scalars
+### Mathematics operations(Addition, subrraction, multiplication and division)
+
+
+#Know the difference between scalar, array, and hash. 
