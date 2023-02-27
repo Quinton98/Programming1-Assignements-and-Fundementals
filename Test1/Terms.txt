@@ -1,0 +1,12 @@
+#!/usr/bin/perl 
+
+1. Describe the differenc e between strongly and loosly typed languages and give examples of each.
+A strongly typed langauge requires that variables and objects to be specified whereas loosly typed ones arent. Strongly typed would be C or C++ 
+Loosy type is python, javascript.
+
+2. Describe the 3 data types in perl programming language and their. The 3 data types in perl are, Arrays which are list that can be modified, Conditionsals which where a the programmer can create condition statements such as if,for, while loops etc.Lastly there are hases in which the programmer can create data bases with key value pairs. 
+
+3.Is an if statement a loop? Why are why not? Yes is can be depending on the condition. If an if statement doesnt have a condition that doesnt stop the lope then it can it can remain in the loop.
+
+4. What is the difference between a stack and a que? 
+
