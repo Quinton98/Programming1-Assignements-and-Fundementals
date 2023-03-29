@@ -1,6 +1,6 @@
 u#!/usr/bin/perl
 
-#Reading data from a file (entire file)
+#Reading datca from a file (entire file)
 #Use < for reading data
 open(DATA, "<fileio.txt") or die "Couldn't open the file, $!";
 while(<DATA>) {
@@ -48,7 +48,6 @@ open(DATA, ">>", "fileio.txt") || die "Couldn't open the file, $!";
 @adding = ("Adding ", "words ", "with ", "an ", "array ");
 print DATA @adding;
 close(DATA);
-
 $add = 5;
 @edit = ("More ", "for ", "the ", "file ");
 %hashex = (Person1 => "John", Personal

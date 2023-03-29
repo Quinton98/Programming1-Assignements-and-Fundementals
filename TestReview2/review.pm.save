@@ -1,0 +1,53 @@
+#!/usr/bin/perl
+ 
+
+sub TakeAttendance {  
+
+       open(FILEW, '+>', 'roster.txt') or die "$!\n ";
+       
+       for($i = 0; $i < 10; $i++){
+       #ask user for name
+       print("What is your name?\n"); 
+       chomp($name = <>);
+       #add name to roster
+       print FILEW("$name \n");
+
+
+}      
+       
+       close(FILEW);
+
+}
+
+#reopening roster.txt with reading 
+open(DATA, '<','roster.txt') or die "$!\n";
+
+@names = <DATA>;
+print("@names\n");
+
+close(DATA);
+
+}
+	 
+
+
+sub CheckName(){
+  
+
+  print"What name do you want to check for? \n";   
+  chomp($givenname = <>);
+  #open file for reading
+  open (FILER, '<','roster.txt') or die "$!\n";  
+  #iterate through contents
+  @names = <FILER>; 
+  foreach $n (@names) { 
+          if ($n =~ m/$givenname/) {
+                print "found\n"; 
+ 
+          } 
+  #check iff any names match $name
+  #if it matches, print "found"
+     }
+}
+
+1;
